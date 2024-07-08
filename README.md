@@ -1,5 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-# Hi there, I am Jaloliddin 👋
+## Hi there, I am Jaloliddin 👋
 If you are looking for Professional .NET web developer who can create a new website, refactor legacy code or improve the current performance of your app, then you are at the right place!
 
 The skills I can offer you include (but not limited to) Web API, ASP.NET MVC, Azure, C# and T-SQL. My experience working in leading companies, based-in the U.S. assures you can have your ideal .NET project up and running according to your deadlines.
@@ -25,3 +24,4 @@ Looking forward to hearing from you.
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
