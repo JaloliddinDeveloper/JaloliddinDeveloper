@@ -7,18 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zafarurakov&label=Profile%20views&color=0e75b6&style=flat" alt="JaloliddinDeveloper" /> </p>
 
-
-- 🌱 I’m currently learning **Microsoft**
-
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/JaloliddinDeveloper)
-
-- 📫 How to reach me **ZafarUrakov@outlook.com**
 
 - ⚡ Fun fact: **The first programming language was called FORTRAN 👀**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/JaloliddinDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="JaloliddinDeveloper" height="30" width="40" /></a>
 <a href="https://twitter.com/zafarurakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JaloliddinDeveloper" height="30" width="40" /></a>
 </p>
 
