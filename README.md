@@ -16,19 +16,14 @@ I can help you out with:
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=JaloliddinDeveloper&show_icons=true&theme=dark)
 
-
 Have a look at my portfolio items in this profile. Once you feel we are a good fit, contact me 💬.
 
 Looking forward to hearing from you.
 
 [Linkedin](https://www.linkedin.com/in/jaloliddin-mahkamov-761a46298/) | [Telegram](https://t.me/JaloliddinDeveloper)   
 
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaloliddinDeveloper&show_icons=true&locale=en&layout=compact" alt="JaloliddinDeveloper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaloliddinDeveloper&show_icons=true&locale=en" alt="JaloliddinDeveloper" /></p>
 
