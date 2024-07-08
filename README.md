@@ -1,3 +1,4 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 # Hi there, I am Jaloliddin 👋
 If you are looking for Professional .NET web developer who can create a new website, refactor legacy code or improve the current performance of your app, then you are at the right place!
 
