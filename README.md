@@ -14,7 +14,14 @@ I can help you out with:
 
 → Unit, Acceptance and Integration testing
 
-<h3 align="center">Software Engineer</h3>
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=JaloliddinDeveloper&show_icons=true&theme=dark)
+
+
+Have a look at my portfolio items in this profile. Once you feel we are a good fit, contact me 💬.
+
+Looking forward to hearing from you.
+
+[Linkedin](https://www.linkedin.com/in/jaloliddin-mahkamov-761a46298/) | [Telegram](https://t.me/JaloliddinDeveloper)   
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
