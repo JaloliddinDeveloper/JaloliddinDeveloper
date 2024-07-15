@@ -15,7 +15,10 @@ I can help you out with:
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=JaloliddinDeveloper&show_icons=true&theme=dark)
  [![GitHub Streak](https://streak-stats.demolab.com?user=JaloliddinDeveloper&theme=dark)](https://git.io/streak-stats)
-
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaloliddinDeveloper&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 Have a look at my portfolio items in this profile. Once you feel we are a good fit, contact me 💬.
 
 Looking forward to hearing from you.
