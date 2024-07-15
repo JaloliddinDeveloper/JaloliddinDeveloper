@@ -24,6 +24,7 @@ Looking forward to hearing from you.
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+       ![Github stats](https://github-readme-stats.vercel.app/api?username=JaloliddinDeveloper&show_icons=true&theme=dark)
       <p align="center">
         <a href="https://github.com/JaloliddinDeveloper">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaloliddinDeveloper&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -42,7 +43,6 @@ Looking forward to hearing from you.
     </td>
   </tr>
 </table>
- ![Github stats](https://github-readme-stats.vercel.app/api?username=JaloliddinDeveloper&show_icons=true&theme=dark)
 <br />
 
 <h3 align="left">Languages:</h3>
