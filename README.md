@@ -42,6 +42,7 @@ Looking forward to hearing from you.
     </td>
   </tr>
 </table>
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=JaloliddinDeveloper&show_icons=true&theme=dark)
 <br />
 
 <h3 align="left">Languages:</h3>
