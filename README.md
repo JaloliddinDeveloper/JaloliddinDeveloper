@@ -9,7 +9,7 @@ I can help you out with:
 
 → Creating Intranet systems
 
-→ Deployment to Azure
+→ Deployment to DigitalOcean
 
 → Unit, Acceptance and Integration testing
 Have a look at my portfolio items in this profile. Once you feel we are a good fit, contact me 💬.
