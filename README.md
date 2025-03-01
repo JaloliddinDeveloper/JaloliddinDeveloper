@@ -9,6 +9,8 @@ I can help you out with:
 
 → Creating Intranet systems
 
+→ Deployment to Google Cloud Linux Ubuntu
+
 → Deployment to DigitalOcean
 
 → Unit, Acceptance and Integration testing
